@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shrawani 👋
 
-<!--
-**shrawani-bankar/shrawani-bankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student in Computer Science & Engineering (AI & Analytics) at MIT School of Computing, Pune, and a Data Analyst Intern.
 
-Here are some ideas to get you started:
+## What I work with
+- Python, SQL, MySQL
+- Tableau, Power BI, data visualization
+- Machine learning and deep learning (CNN)
+- Web development: HTML, CSS, JavaScript, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI-Driven Medical Imaging Diagnosis App
+- Construction Site Management System
+- ConstructHub – web analytics project
+- Arduino-Based Metal Detector
+
+## Contact
+Email: shrawanibankar2406@gmail.com
+LinkedIn: https://www.linkedin.com/in/shrawani-bankar-967b12366
