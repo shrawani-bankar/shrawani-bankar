@@ -16,4 +16,4 @@ B.Tech student in Computer Science & Engineering (AI & Analytics) at MIT School 
 
 ## Contact
 Email: shrawanibankar2406@gmail.com
-LinkedIn: https://www.linkedin.com/in/shrawani-bankar-967b12366
+LinkedIn: [Shrawani Bankar](https://www.linkedin.com/in/shrawani-bankar-967b12366)
